@@ -1,6 +1,9 @@
 import java.util.Arrays;
 import java.util.Random;
 
+/**
+ * https://leetcode.cn/problems/sort-an-array
+ */
 public class E912 {
     public static void main(String[] args) {
         int[] nums = new int[]{5, 1, 1, 2, 0, 0};
